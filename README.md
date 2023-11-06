@@ -6,7 +6,7 @@
 - 📫 How to reach me: hqhEmail0802@163.com
 - 👀 [My blog] (http://blog.johnsonhuang.studio/)
 
-https://stats.justsong.cn/api/juejin?id=2647279732267342
+![stats-cards](https://stats.justsong.cn/api/juejin?id=2647279732267342)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnsonHuang4396&show_icons=true&theme=highcontrast)
 
