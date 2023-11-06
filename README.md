@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Nestjs, Taro
 - 💬 Ask me about Vue, TypeScript
 - 📫 How to reach me: hqhEmail0802@163.com
-- 👀 [My blog] (http://blog.johnsonhuang.studio/)
+- 👀 [http://blog.johnsonhuang.studio/] (My blog)
 
 ![stats-cards](https://stats.justsong.cn/api/juejin?id=2647279732267342)
 
