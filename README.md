@@ -5,7 +5,7 @@
   
   I am Johnson Huang, a junior front-end developer, coding with Vue3 and TypeScript now, learning Nestjs.
 
-  Hope one day I can do some contributions for the community😂
+  Hope one day I can make some contributions for the community😂
   
   <a href="http://blog.johnsonhuang.studio">
     <img alt="Static Badge" src="https://img.shields.io/badge/-MyBlog-%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2?logo=blog&label=%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2&color=0F78E2">
@@ -29,4 +29,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)
 
-![stats-cards](https://stats.justsong.cn/api/juejin?id=2647279732267342) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnsonHuang4396&show_icons=true&theme=highcontrast)
+![stats-cards](https://stats.justsong.cn/api/juejin?id=2647279732267342)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnsonHuang4396&show_icons=true&theme=highcontrast)
