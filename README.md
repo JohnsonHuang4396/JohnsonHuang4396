@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&random=false&width=550&lines=Hey+there!;I'm+Johnson%2C+thanks+for+visiting+my+profile!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on Foshan China
 - 🌱 I’m currently learning Nestjs, Taro
