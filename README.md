@@ -1,6 +1,6 @@
 <div align="center">
   <a href="http://blog.johnsonhuang.studio">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&random=false&width=550&lines=Hey+there!;I'm+Johnson%2C+thanks+for+visiting+my+profile!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&random=false&width=580&lines=Hey+there!;I'm+Johnson%2C+thanks+for+visiting+my+profile!" alt="Typing SVG" />
   </a>
   
   I am Johnson Huang, a junior front-end developer, coding with Vue3 and TypeScript now, learning Nestjs.
