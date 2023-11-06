@@ -29,6 +29,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)
 
-![stats-cards](https://stats.justsong.cn/api/juejin?id=2647279732267342)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnsonHuang4396&show_icons=true&theme=highcontrast)
+![stats-cards](https://stats.justsong.cn/api/juejin?id=2647279732267342) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnsonHuang4396&show_icons=true&theme=highcontrast)
